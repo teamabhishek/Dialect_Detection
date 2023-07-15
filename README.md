@@ -1,5 +1,5 @@
 # End-to-end Dialect Identification (implementation on MGB-3 Arabic dialect dataset)
-An End-to-End dialect identificaion on Arabic dialect Dataset. Used MFCCs and Mel-Spectrogram for the audio feature extraction of MGB-3 Arabic dialect dataset. Saved Extracted features in tfrecords files.
+An End-to-End dialect identification on Arabic dialect Dataset. Used MFCCs and Mel-Spectrogram for the audio feature extraction of MGB-3 Arabic dialect dataset. Saved Extracted features in tfrecords files.
 
 # Requirement
 * Python, tested on 3.10.5
