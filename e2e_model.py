@@ -1,7 +1,7 @@
 import tensorflow as tf 
 from tensorflow import keras
 import numpy as np
-import tensorflow_quantum as tfq
+#import tensorflow_quantum as tfq
 
 import os
 import io
@@ -10,12 +10,12 @@ import random
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-import tensorflow_hub as hub
-import tensorflow_quantum as tfq
-import cirq
-import sympy
-from cirq.contrib.svg import SVGCircuit
-import tensorflow_io as tfio
+#import tensorflow_hub as hub
+#import tensorflow_quantum as tfq
+#import cirq
+#import sympy
+#from cirq.contrib.svg import SVGCircuit
+#import tensorflow_io as tfio
 from tensorflow import keras
 import matplotlib.pyplot as plt
 import seaborn as sns

@@ -221,7 +221,7 @@ SAVER_FOLDERNAME = 'saver'
 if len(sys.argv)< 7:
     print ("not enough arguments")
     print ("command : ./new_training.py [nn_model_name] [learning rate] [input_dim(feat dim)] [is_batch_norm] [feature_filename]")
-    print ("(example) ./new_training.py e2e_model 0.001 40 True aug_mfcc_fft512_hop160_vad_cmn")
+    print ("(example) ./new_training.py e2e_model 0.001 40 True mfcc_fft400_hop160_vad_cmn")
 
 is_batchnorm = False
 NN_MODEL = sys.argv[1]
